@@ -95,7 +95,7 @@ public class ImageDownloadHandler : MonoBehaviour
             if (File.Exists(savePath))
             {
                 byte[] bytes = File.ReadAllBytes(savePath);
-                Texture2D texture = new Texture2D(1, 1);
+                Texture2D texture = new Texture2D(16, 16);
                 texture.LoadImage(bytes);
                 return texture;
             }
