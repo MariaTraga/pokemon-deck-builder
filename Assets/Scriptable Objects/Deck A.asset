@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c67c3b36241369042909f3b4f3afa172, type: 3}
+  m_Name: Deck A
+  m_EditorClassIdentifier: 
+  cards:
+  - id: dp1-8
+    name: Magnezone
+    small: https://images.pokemontcg.io/dp1/8.png
+    types:
+    - '"Metal"'
+    hp: 120
+    rarity: Rare Holo
+  - id: dp1-8
+    name: Magnezone
+    small: https://images.pokemontcg.io/dp1/8.png
+    types:
+    - '"Metal"'
+    hp: 120
+    rarity: Rare Holo
+  - id: dp1-8
+    name: Magnezone
+    small: https://images.pokemontcg.io/dp1/8.png
+    types:
+    - '"Metal"'
+    hp: 120
+    rarity: Rare Holo
+  - id: dp1-8
+    name: Magnezone
+    small: https://images.pokemontcg.io/dp1/8.png
+    types:
+    - '"Metal"'
+    hp: 120
+    rarity: Rare Holo
+  - id: dp1-4
+    name: Empoleon
+    small: https://images.pokemontcg.io/dp1/4.png
+    types:
+    - '"Water"'
+    hp: 130
+    rarity: Rare Holo
+  - id: dp1-3
+    name: Electivire
+    small: https://images.pokemontcg.io/dp1/3.png
+    types:
+    - '"Lightning"'
+    hp: 100
+    rarity: Rare Holo
+  - id: dp1-7
+    name: Luxray
+    small: https://images.pokemontcg.io/dp1/7.png
+    types:
+    - '"Lightning"'
+    hp: 120
+    rarity: Rare Holo
+  - id: dp1-70
+    name: Bidoof
+    small: https://images.pokemontcg.io/dp1/70.png
+    types:
+    - '"Colorless"'
+    hp: 50
+    rarity: Common
+  - id: dp1-17
+    name: Torterra
+    small: https://images.pokemontcg.io/dp1/17.png
+    types:
+    - '"Grass"'
+    hp: 140
+    rarity: Rare Holo
