@@ -180,17 +180,12 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2d2978b1f50f75342b9428acf30bfb13, type: 3}
---- !u!1 &1033617281 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 5661810159779826853, guid: 8f11c04398fcddb4ab0a0878c62c050f, type: 3}
-  m_PrefabInstance: {fileID: 5661810158763012900}
-  m_PrefabAsset: {fileID: 0}
 --- !u!114 &1033617282 stripped
 MonoBehaviour:
   m_CorrespondingSourceObject: {fileID: 5661810159779826854, guid: 8f11c04398fcddb4ab0a0878c62c050f, type: 3}
   m_PrefabInstance: {fileID: 5661810158763012900}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1033617281}
+  m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 3d9692d30752b3b4cac2e5b3a94cd5f6, type: 3}
@@ -355,10 +350,10 @@ PrefabInstance:
     - target: {fileID: 1292958086865021095, guid: c3479c00a0010b84da7f7b6c287bed73, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
       value: 
-      objectReference: {fileID: 1033617281}
+      objectReference: {fileID: 1033617282}
     - target: {fileID: 1292958086865021095, guid: c3479c00a0010b84da7f7b6c287bed73, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
-      value: 
+      value: QuitGame
       objectReference: {fileID: 0}
     - target: {fileID: 1292958087311139749, guid: c3479c00a0010b84da7f7b6c287bed73, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
@@ -395,6 +390,14 @@ PrefabInstance:
     - target: {fileID: 1292958087977725456, guid: c3479c00a0010b84da7f7b6c287bed73, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgumentAssemblyTypeName
       value: UnityEngine.Object, UnityEngine
+      objectReference: {fileID: 0}
+    - target: {fileID: 1292958088048461043, guid: c3479c00a0010b84da7f7b6c287bed73, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 8.4123535
+      objectReference: {fileID: 0}
+    - target: {fileID: 1292958088048461043, guid: c3479c00a0010b84da7f7b6c287bed73, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -56.237854
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c3479c00a0010b84da7f7b6c287bed73, type: 3}
