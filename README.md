@@ -11,6 +11,7 @@ In order for the game to be created, the Unity Engine 2021.3.9f1 was used.
 The project features a main menu, an about screen and the main deck building screen.
 The player can add cards to 3 different decks from a wide selection by clicking on the desired cards.
 The player can also remove cards from the deck by pressing on the selected card.
+It is also possible for the player to sort the cards on the stash and the deck, by type, hp and rarity.
 
 ## Controls
 All the controls are handled by left clicking on buttons and/or cards.
